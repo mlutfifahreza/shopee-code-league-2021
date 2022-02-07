@@ -1,0 +1,20 @@
+{
+    "n_test_cases" : 2,
+    "items" : [
+        {
+            "n_days" : 1,
+            "n_cells" : 5,
+            "fruit_healths" : [
+                [-9, -8, 1, 2, 3]
+            ]
+        },
+        {
+            "n_days" : 2,
+            "n_cells" : 3,
+            "fruit_healths" : [
+                [1, 4, -5],
+                [-1, -9, 100]
+            ]
+        }
+    ]
+}
